@@ -10,7 +10,7 @@
 #import "Adtrace.h"
 #import "ADTAdtraceFactory.h"
 // todo: base url
-static NSString * const baseUrl = @"https://adtrace-track.uat.sdb247.com";
+static NSString * const baseUrl = @"https://track.sdb247.com";
 static NSString * const gdprUrl = @"https://gdpr.adtrace.io";
 static NSString * const subscriptionUrl = @"https://subscription.adtrace.io";
 
